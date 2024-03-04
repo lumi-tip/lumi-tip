@@ -24,7 +24,3 @@ Here are some of the projects I've been working on:
 - Email: [informacionlmdv@gmail.com](mailto:informacionlmdv@gmail.com)
 
 Feel free to reach out if you have any questions or just want to chat!
-
-[comment]: <> (### Stats 📊)
-
-[comment]: <> (![LuMi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lumi-tip&show_icons=true&theme=radical))
