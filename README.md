@@ -25,6 +25,6 @@ Here are some of the projects I've been working on:
 
 Feel free to reach out if you have any questions or just want to chat!
 
-### Stats 📊
+[comment]: <> (### Stats 📊)
 
-![LuMi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lumi-tip&show_icons=true&theme=radical)
+[comment]: <> (![LuMi's GitHub stats](https://github-readme-stats.vercel.app/api?username=lumi-tip&show_icons=true&theme=radical))
