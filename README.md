@@ -20,7 +20,7 @@ Here are some of the projects I've been working on:
 
 ### Get in Touch 📬
 
-- LinkedIn: ([LuisMi](https://www.linkedin.com/in/luis-miguel-del-valle-149a1a224/))
+- LinkedIn: [LuisMi](https://www.linkedin.com/in/luis-miguel-del-valle-149a1a224/)
 - Email: [informacionlmdv@gmail.com](mailto:informacionlmdv@gmail.com)
 
 Feel free to reach out if you have any questions or just want to chat!
