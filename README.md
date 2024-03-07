@@ -2,7 +2,7 @@
 
 ### About Me ℹ️
 
-Hello there! I'm Luis, a 🚀 Full Stack Programmer from Venezuela. I'm passionate about BackEnd, and I love to bring awesome functionalities to programs. 
+Hello there! I'm Luis, a 🚀 Full Stack Programmer from Venezuela. I'm passionate about BackEnd, and I love developing awesome functionalities to programs. 
 
 ### My Projects 🛠️
 
