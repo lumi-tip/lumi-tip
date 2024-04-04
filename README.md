@@ -14,8 +14,8 @@ Here are some of the projects I've been working on:
 
 ### My Skills 💻
 
-- Programming Languages: [HTML, CSS, JS, JAVA, PYTHON]
-- Technologies: [REACT.js, FLUX]
+- Programming Languages: [HTML, CSS, JS, NODE.JS, PYTHON, SQL]
+- Technologies: [REACT.js, FLUX, FLASK, FLASK-SQLALCHEMY, SQL-ALCHEMY, FLASK-JWT]
 - Tools: [BOOSTRAP, TAILWIND]
 
 ### Get in Touch 📬
