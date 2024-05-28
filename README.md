@@ -15,7 +15,7 @@ Hello there! I'm Luis, a 🚀 Full Stack Programmer from Venezuela. I'm currentl
 
 # 📊 GitHub Stats:
 <div align="center">
-  <div margin-bottom="20px">
+  <div style="margin-bottom: 20px">
     ![](https://github-readme-stats.vercel.app/api?username=lumi-tip&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
   </div>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=lumi-tip&theme=react&hide_border=false)<br/>
