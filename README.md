@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Hello there! I'm Luis, a 🚀 Full Stack Programmer from Venezuela. I'm currently working as a Full Stack developer using React.ts and Node.js. <br>I love developing awesome functionalities for programs.
+Hello there! I'm Luis, a 🚀 Full Stack Programmer from Venezuela. I'm currently working as a Full Stack developer using React.ts and Node.js.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-miguel-del-valle-149a1a224) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@lumi_tip) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/LuisMiTIP) 
